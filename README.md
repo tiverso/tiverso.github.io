@@ -1,5 +1,4 @@
 # tiz-git.github.io
-# react-dropdown-tree-select
 
 ---
 
