@@ -1,5 +1,5 @@
 # tiz-git.github.io
-
+# tiz-git
 ---
 
 [![NPM version][npm-image]][npm-url] [![gzip][gzip-image]][gzip-url] [![npm download][download-image]][npm-url]
