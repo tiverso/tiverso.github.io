@@ -6,7 +6,7 @@
 
 # Skill Highlights
 
-- **Extensive experience in IT documentation** for external and internal use (specification and requirements, sw manuals, user guides, release notes, online tutorials, diagrams and flowcharts, guidelines, how-to articles, references, database diagram, data dictionary, API documentation, websites navigation maps, training documentation)
+- **Extensive experience in IT documentation** for external and internal use 
 - **Excellent IT skills** (web development, testing, technical support, technical training)
 - **Very good knowledge** of the **software life cycle**
 - Familiar with **multiple media** (online, printed, video)
@@ -19,28 +19,22 @@
 # Experience
 
 **Software Documentation Writer**
-Leading International Company, Milan - 08/2017 – current
+Leading International Company, Milan – current
 
-- **Documentation Writer** in **English** about company applications and websites, fully responsible for writing and organizing documents for all countries worldwide
-- **Documentation reorganization** for the whole company
-- **Migration Plan** from Confluence Server to Cloud version
-- **Online Document Management** (Confluence, Jira, XML, CHM, video editing and subtitling for online tutorials)
-- **Paper documentation** (DOC, PDF, PPT)
-- **Business writer** and product documentation
-- **GDPR** and **Privacy** documentation
-- Company guidelines on writing
-- **Translation** of technical and business documentation (EN\>IT, IT\>EN, FR\>IT) and localization of company websites
+- **Documentation Writer** in **English**
+- **Online Document Management**
+- **Paper documentation**
+- **Translation** of technical documentation
 
-**Technical Writer and Application Consultant** (Consultant),
- RCS, Lombardia Informatica, BestData, Milan - 04/2012 - 08/2017
-- **Technical Writer** about **desktop** , **mobile applications** and **websites**
-- Collaboration with the Functional Analyst and the Product Owner (**Requirements** gathering, drafting of Functional **Specifications**)
+**Technical Writer and Application Consultant** (Consultant), Milan
+ Various leading companies in different sectors
+- **Technical Writer** about **desktop**, **mobile applications** and **websites**
+- Collaboration with Functional Analyst and Product Owner
 - Technical application support to customers
-- **Testing**: definition of test cases, functional tests, usability tests
+- **Testing**
 
-**Webdesigner, Web Content, SEO** (Consultant)
-Planetcom, UkLondonServices, HP, Reply, Crea Informatica
- Milan, London - 2001 to 2012
+**Webdesigner, Web Content, SEO** 
+(Consultant), Milan, London
 
 # Languages
 
@@ -50,23 +44,22 @@ Planetcom, UkLondonServices, HP, Reply, Crea Informatica
 
 # Certifications
 
-- IELTS Certification, C1 level (09/2014)
+- IELTS Certification, C1 level
 
 # Education
 
-- Professional Certificate in **Internationalization and Localization**, UWashingtonX on edX (03-05/2020)
-- **Master** in **Professional Translation** (**Web**, **Legal**, **Commercial** and **Tourism**), Vote: 109/110), Superior School for Interpreters and Translators (SSIT), Pescara (20/12/2019)
-- **BA** in Humanities, major in **Modern Languages**, graduated with honours (**Vote 110/110 and praise**), Università degli Studi Guglielmo Marconi, Roma (12/2019)
-- **Web Publishing**: undergraduate course, Istituto Rizzoli, Milan, Vote: 9/10 (2000-2001)
-- **Desktop Publishing**: undergraduate course, Istituto Rizzoli, Milan, Vote: 8/10 (1999-2000)
-- **High School Diploma in Classical studies**: Liceo Umberto I, Palermo, Vote: 60/60 (1985-1990)
+- **Master** in **Professional Translation**, Vote: 109/110
+- **BA** in Humanities, major in **Modern Languages**, graduated with honours (**Vote 110/110 and praise**)
+- **Web Publishing**: undergraduate course, Vote: 9/10
+- **Desktop Publishing**: undergraduate course, Vote: 8/10
+- **High School Diploma in Classical studies**: Vote: 60/60
 
 # Language Courses
 
-- **Business English Course**, C1 Level, Etass Formazione, Milan (06-12/2014)
-- **Work stay in London**, (05-09/2006)
-- **One-to-one English Course**, Kensington School, Milan (03-05/2006)
-- **English Course**, B2 level, Trinity School, Rome (01-07/2004)
+- **Business English Course**
+- **Work stay in London**
+- **One-to-one English Course**
+- **English Course**
 
 # Computer Skills
 
@@ -89,4 +82,4 @@ Planetcom, UkLondonServices, HP, Reply, Crea Informatica
 - **Other Tools**: Adobe Acrobat, PDF tools, OCR Software
 
 # Personal Skills
-**Attention** to **details** , excellent **organisational skills** , self-motivation, reliability and ability to keep confidential business and other sensitive information, **avid learner**.
+**Attention** to **details**, excellent **organisational skills** , self-motivation, reliability and ability to keep confidential business and other sensitive information, **avid learner**.
