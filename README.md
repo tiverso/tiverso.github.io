@@ -1,4 +1,4 @@
-# tiz-git.github.io
+# tiverso.github.io
 
 # Technical Writing
 
