@@ -1,5 +1,3 @@
-# tiverso.github.io
-
 # Technical Writing
 
 For some reason, there are only a relatively small number of people who are interested in both technology and language. If you are one of them, technical writing can be a great profession, or means of generating a side income. 
