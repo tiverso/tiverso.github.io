@@ -64,7 +64,7 @@ If you would like to know more about me and my job, please feel free to contact 
 
 - Developing Quality Technical Information: A Handbook for Writers and Editors, multiple authors
 - Modern Technical Writing: An Introduction to Software Documentation, Andrew Etter
-- On Writing, by Stephen King
+- On Writing, Stephen King
 - Don&#39;t Make Me Think, Steve Krug
 - Information Architecture for the World Wide Web, Peter Morville and Louis Rosenfeld
 
