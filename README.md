@@ -1,85 +1,140 @@
-# **TIZIANA VERSO CURRICULUM VITAE**
+# Technical Writing
 
-# Summary
+What is Technical Writing and what does a Technical Writer do? These are questions I have been asked many times.
+ My usual answer is that Technical writing is  **simplifying the complex** , by communicating complex information in a clear and understandable way.
+ But the truth is that there is no easy answer, especially if you want to understand what this job consists of.
 
-**Software Documentation Writer** (English and Italian). Experience with **Business** and **Legal** Documentation. **Technical Translator** (EN\>IT, IT\>EN) and localization expert. In-depth technical knowledge. Ability to rapidly acquire complex information and communicate them clearly and accurately. Web Writing, Web Content Management. Attention to **details**, excellent **organizational skills**, avid learner.
+The bright side is that our work makes life easier for others, the down side is that the apparent simplicity has a cost. People just see the arrival point of a long path and usually think this is an easy job, but it is exactly the opposite!
 
-# Skill Highlights
+A  **Technical Writer**  is like a  **hybrid creature** , half-human, half-octopus because he or she is an intermediary between the technical staff and the end user and needs multiple skills.
+ Here are a few of them, at least for an IT Technical Writer:
 
-- **Extensive experience in IT documentation** for external and internal use 
-- **Excellent IT skills** (web development, testing, technical support, technical training)
-- **Very good knowledge** of the **software life cycle**
-- Familiar with **multiple media** (online, printed, video)
-- **Web Content Management (CMS, HTML)** and **Online Document Management** (Confluence, Sharepoint, GitHub, Wiki, XML, CHM)
-- **Business Writing** and **product documentation**
-- **Collaboration** with different **teams** to update documents (devs, support, test, product owner, functional analyst, system admins, CTO).
-- **Agile Methodologies** (Scrum, Kanban)
-- **Information Architecture**
+## Human Skills
 
-# Experience
+- Passion for technology (you can never rest on your laurels, but you have to learn something new every day)
+- Writing ability (you must be able to write directions easy to follow in a correct, concise, accurate and clear way. If you do not believe me, try reading something written by devs…)
+- Ability to understand complicated concepts and explain them clearly
+- Ability to adapt your writing according to your audience (nonexpert, developers, support, sales people, executives, prospective customers, etc)
+- Ability to understand other people&#39;s perspectives and needs
+- Strong organizational skills (you need very good time management skills)
+- Investigative and testing skills (usually devs have little time to give explanations, so you must be able to understand by yourself everything you can)
 
-**Software Documentation Writer**
-Leading International Company, Milan – current
+## Tech Skills
 
-- **Documentation Writer** in **English**
-- **Online Document Management**
-- **Paper documentation**
-- **Translation** of technical documentation
+- Operating Systems (Windows, Linux, Unix, macOS, Android, iOS, etc)
+- Microsoft Office
+- CMS (Wordpress, etc)
+- Online Document Management Systems (Atlassian Confluence, Sharepoint…)
+- Webdesign, Web &amp; Markup Languages (HTML, XHTML, CSS, XML, Markdown, etc)
+- Programming Languages
+- SQL and DBMS
+- Lifecycle tools: GitLab, GitHub, Jira
+- PDF &amp; Other Tools
+- Photo Editing
+- Video Editing
+- Desktop Publishing
+- Ebook Tools/Online Guides
+- Information Architecture
+- Translation Tools
+- E-learning Management Systems
 
-**Technical Writer and Application Consultant** (Consultant), Milan
- Various leading companies in different sectors
-- **Technical Writer** about **desktop**, **mobile applications** and **websites**
-- Collaboration with Functional Analyst and Product Owner
-- Technical application support to customers
-- **Testing**
+### **Technical Writing Cycle**
 
-**Webdesigner, Web Content, SEO** 
-(Consultant), Milan, London
+In an ideal world, technical writing also has its own cycle:
 
-# Languages
+- Identification of needs, audiences, and scope
+- Planning
+- Research &amp; content development
+- Testing
+- Revision
+- Delivery
+- Feedback
+- Updating
+- Archiving
 
-- English – C1
-- French – B1
-- Italian – Native Speaker
+More realistically, a Technical Writer is part of the company&#39;s business production cycle and needs to adapt to the priority of the requests.
 
-# Certifications
+## About Me
 
-- IELTS Certification, C1 level
+If you would like to know more about me and my job, please feel free to contact me.
 
-# Education
+# Writing Resources
 
-- **Master** in **Professional Translation**, Vote: 109/110
-- **BA** in Humanities, major in **Modern Languages**, graduated with honours (**Vote 110/110 and praise**)
-- **Web Publishing**: undergraduate course, Vote: 9/10
-- **Desktop Publishing**: undergraduate course, Vote: 8/10
-- **High School Diploma in Classical studies**: Vote: 60/60
+### **Books in English:**
 
-# Language Courses
+- Developing Quality Technical Information: A Handbook for Writers and Editors, multiple authors
+- Modern Technical Writing: An Introduction to Software Documentation, Andrew Etter
+- On Writing, by Stephen King
+- Don&#39;t Make Me Think, Steve Krug
+- Information Architecture for the World Wide Web, Peter Morville and Louis Rosenfeld
 
-- **Business English Course**
-- **Work stay in London**
-- **One-to-one English Course**
-- **English Course**
+### **Books in Italian:**
 
-# Computer Skills
+- Il comunicatore tecnico, Gianni Angelini
+- Il mestiere di scrivere, Luisa Carrada
+- Guida di stile, Luisa Carrada
 
-- **Operating Systems**: Microsoft Windows, Linux Ubuntu, Unix Shell Scripting, Android, iOS
-- **Microsoft Office**: Word, Outlook, Excel, Powerpoint, Access, Visio
-- **CMS**: Wordpress, Joomla
-- **Online Document Management**: (Atlassian Confluence, Sharepoint, XML, CHM, HTML, video)
-- **Lifecycle tools**: GitLab, GitHub, Jira
-- **Video Editing**: OBS Studio, Camtasia Studio, Subtitle Edit
-- **Webdesign**: Dreamweaver, UltraEdit, Adobe Photoshop
-- **Ebook Tools/Online Guides**: Epub, Mobi, AZW etc, and online help (chm)
-- **Web & Markup Languages**: HTML 4/5, XHTML, CSS2/3, XML (XSL, XSL:FO, XSL Schema, XPath, etc), basic Javascript and PHP, Markdown, MediaWiki
-- **Information Architecture**, **UX**
-- **E-learning**: Moodle
-- **SQL** and **DBMS** (Oracle, Microsoft SQL Server, MySQL, PostgreSQL)
-- **SEO**: SEO, SEM, Webmarketing, Digital Advertising Formats
-- **Analytics & Google Tools**: Google Analytics, Google Webmaster Tools
-- **DTP**: Adobe InDesign and Desktop Publishing
-- **Translation Tools**: SDL Trados Studio Professional 2019, SDL MultiTerm 2017 SR1, SDL Passolo Collaboration Edition 2018
-- **Other Tools**: Adobe Acrobat, PDF tools, OCR Software
+### **Websites**
 
-# Personal Skills
-**Attention** to **details**, excellent **organisational skills** , self-motivation, reliability and ability to keep confidential business and other sensitive information, **avid learner**.
+- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+- [GitLab Technical Writing Fundamentals](https://about.gitlab.com/handbook/engineering/ux/technical-writing/fundamentals/)
+- [Tom Johnson&#39;s blog: I&#39;d Rather Be Writing](https://idratherbewriting.com/)
+- [Kesi Parker on Medium](https://medium.com/@kesiparker)
+- [API Documentation](https://smartbear.com/state-of-software-quality/api/documentation/)
+- [Tom Johnson: Documenting APIs](https://idratherbewriting.com/learnapidoc/)
+
+## Documentation Style Guides
+
+- [Google developer documentation style guide](https://developers.google.com/style)
+- [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+- [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
+- [Apple Style Guide](https://help.apple.com/applestyleguide/#/apsg1eef9171)
+- [Red Hat Documentation Guide](https://redhat-documentation.github.io/)
+- [Atlassian Design guide](https://atlassian.design/content/)
+
+## General Style Guides
+
+- [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/)
+- [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
+
+# Technical Writing Communities
+
+- [Write the Docs](https://www.writethedocs.org/)
+- [Society for Technical Communication](https://www.stc.org/)
+- [European Association for Technical Communication - tekom Europe](https://www.technical-communication.org/)
+- [Italian Association for Technical Communication](http://www.comtec-italia.org/)
+- [Communication Engineering &amp; Technical Writing Association](http://www.writec.com/)
+
+## Software and Tools
+
+- [MadCap Flare](https://www.madcapsoftware.com/products/flare/)
+- [Adobe Framemaker](https://www.adobe.com/it/products/framemaker.html)
+- [Adobe Robohelp](https://www.adobe.com/it/products/robohelp.html)
+- [Atlassian Confluence](https://www.atlassian.com/software/confluence)
+- [Dita Open Toolkit](https://www.dita-ot.org/)
+- [Oxygen XML Editor/Autor](https://www.oxygenxml.com/)
+- [XMLmind Editor](https://www.xmlmind.com/xmleditor/)
+- [Altova XMLSpy](https://www.altova.com/xmlspy-xml-editor)
+- [WordPress](https://wordpress.org/download/)
+- [Adobe InDesign](https://www.adobe.com/products/indesign.html)
+- [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word)
+- [Microsoft Visio](https://www.microsoft.com/it-it/microsoft-365/visio/flowchart-software)
+- [Diagrams.net](https://www.draw.io/)
+- [Grammarly](https://www.grammarly.com/)
+- [Trello](https://trello.com/)
+- [OBS Studio](https://obsproject.com/)
+- [Camtasia](https://www.techsmith.com/video-editor.html)
+- [GitHub](https://github.com/)
+- [SoapUI](https://www.soapui.org/)
+- [Jira](https://www.atlassian.com/software/jira)
+- [SharePoint](https://www.microsoft.com/en-ww/microsoft-365/sharepoint/collaboration)
+- [DokuWiki](https://www.dokuwiki.org/dokuwiki)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Moodle](https://moodle.org/)
+- [KeyTools](https://www.help-info.de/kb/en/HTMLHelp/files/KeyToolsSetup.zip)
+- [FAR HTML](https://www.helpwaregroup.com/download)
+- [HTMLHelp Workshop](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-downloads)
+- [Image Resizer](https://docs.microsoft.com/en-us/windows/powertoys/image-resizer)
+- [Adobe Acrobat](https://www.adobe.com/acrobat.html)
+- [PDFsam](https://pdfsam.org/)
+- [SDL Trados](https://www.trados.com/products/trados-studio/)
