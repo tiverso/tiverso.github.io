@@ -1,46 +1,46 @@
 # Technical Writing
 
-What is Technical Writing and what does a Technical Writer do? These are questions I have been asked many times.
- My usual answer is that Technical writing is  **simplifying the complex** , by communicating complex information in a clear and understandable way.
- But the truth is that there is no easy answer, especially if you want to understand what this job consists of.
+What is Technical Writing and what does a Technical Writer do? These are questions I have been asked many times. 
+
+My usual answer is that Technical writing is  **simplifying the complex** , by communicating complex information in a clear and understandable way. But the truth is that there is no easy answer, especially if you want to understand what this job consists of.
 
 The bright side is that our work makes life easier for others, the down side is that the apparent simplicity has a cost. People just see the arrival point of a long path and usually think this is an easy job, but it is exactly the opposite!
 
-A  **Technical Writer**  is like a  **hybrid creature** , half-human, half-octopus because he or she is an intermediary between the technical staff and the end user and needs multiple skills.
- Here are a few of them, at least for an IT Technical Writer:
+A  **Technical Writer**  is like a  **hybrid creature**, half-human, half-octopus because he or she is an **intermediary** between the technical staff and the end user and needs **multiple skills**.
+ Here are a few of them, at least for an **IT Technical Writer**:
 
 ## Human Skills
 
-- Passion for technology (you can never rest on your laurels, but you have to learn something new every day)
-- Writing ability (you must be able to write directions easy to follow in a correct, concise, accurate and clear way. If you do not believe me, try reading something written by devs…)
-- Ability to understand complicated concepts and explain them clearly
-- Ability to adapt your writing according to your audience (nonexpert, developers, support, sales people, executives, prospective customers, etc)
-- Ability to understand other people&#39;s perspectives and needs
-- Strong organizational skills (you need very good time management skills)
-- Investigative and testing skills (usually devs have little time to give explanations, so you must be able to understand by yourself everything you can)
+- **Passion for technology** (you can never rest on your laurels, but you have to learn something new every day)
+- **Writing ability** (you must be able to write directions easy to follow in a correct, concise, accurate and clear way. If you do not believe me, try reading something written by devs…)
+- Ability to **understand complicated concepts** and **explain them clearly**
+- Ability to **adapt** your **writing** according to your **audience** (nonexpert, developers, support, sales people, executives, prospective customers, etc)
+- Ability to **understand other people&#39;s perspectives and needs**
+- **Strong organizational skills** (you need very good time management skills)
+- **Investigative** and **testing skills** (usually devs have little time to give explanations, so you must be able to understand by yourself everything you can)
 
 ## Tech Skills
 
-- Operating Systems (Windows, Linux, Unix, macOS, Android, iOS, etc)
-- Microsoft Office
-- CMS (Wordpress, etc)
-- Online Document Management Systems (Atlassian Confluence, Sharepoint…)
-- Webdesign, Web &amp; Markup Languages (HTML, XHTML, CSS, XML, Markdown, etc)
-- Programming Languages
-- SQL and DBMS
-- Lifecycle tools: GitLab, GitHub, Jira
-- PDF &amp; Other Tools
-- Photo Editing
-- Video Editing
-- Desktop Publishing
-- Ebook Tools/Online Guides
-- Information Architecture
-- Translation Tools
-- E-learning Management Systems
+- **Operating Systems** (Windows, Linux, Unix, macOS, Android, iOS, etc)
+- **Microsoft Office**
+- **CMS** (Wordpress, etc)
+- **Online Document Management Systems** (Atlassian Confluence, Sharepoint…)
+- **Webdesign, Web &amp; Markup Languages** (HTML, XHTML, CSS, XML, Markdown, etc)
+- **Programming Languages**
+- **SQL** and **DBMS**
+- **Lifecycle tools**: GitLab, GitHub, Jira
+- **PDF &amp; Other Tools**
+- **Photo Editing**
+- **Video Editing**
+- **Desktop Publishing**
+- **Ebook Tools/Online Guides**
+- **Information Architecture**
+- **Translation Tools**
+- **E-learning Management Systems**
 
 ### **Technical Writing Cycle**
 
-In an ideal world, technical writing also has its own cycle:
+In an ideal world, **technical writing** also has its own **cycle**:
 
 - Identification of needs, audiences, and scope
 - Planning
@@ -52,7 +52,7 @@ In an ideal world, technical writing also has its own cycle:
 - Updating
 - Archiving
 
-More realistically, a Technical Writer is part of the company&#39;s business production cycle and needs to adapt to the priority of the requests.
+More realistically, a Technical Writer is part of the **company&#39;s business production cycle** and needs to **adapt** to the **company's priorities**.
 
 ## About Me
 
