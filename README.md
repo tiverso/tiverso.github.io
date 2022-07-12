@@ -105,7 +105,7 @@ If you would like to know more about me and my job, please feel free to contact 
 - [Italian Association for Technical Communication](http://www.comtec-italia.org/)
 - [Communication Engineering &amp; Technical Writing Association](http://www.writec.com/)
 
-## Software and Tools
+# Software and Tools
 
 - [MadCap Flare](https://www.madcapsoftware.com/products/flare/)
 - [Adobe Framemaker](https://www.adobe.com/it/products/framemaker.html)
