@@ -14,7 +14,7 @@ A  **Technical Writer**  is like a  **hybrid creature**, half-human, half-octopu
 - **Passion for technology** (you can never rest on your laurels, but you have to learn something new every day)
 - **Writing ability** (you must be able to write directions easy to follow in a correct, concise, accurate and clear way. If you do not believe me, try reading something written by devs…)
 - Ability to **understand complicated concepts** and **explain them clearly**
-- Ability to **adapt** your **writing** according to your **audience** (nonexpert, developers, support, sales people, executives, prospective customers, etc)
+- Ability to **adapt** your **writing** according to your **audience** (end users, developers, support, sales people, executives, prospective customers, etc)
 - Ability to **understand other people&#39;s perspectives and needs**
 - **Strong organizational skills** (you need very good time management skills)
 - **Investigative** and **testing skills** (usually devs have little time to give explanations, so you must be able to understand by yourself everything you can)
