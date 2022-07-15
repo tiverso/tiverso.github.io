@@ -54,7 +54,7 @@ In an ideal world, **technical writing** also has its own **cycle**:
 - Translating
 - Archiving
 
-More realistically, a Technical Writer is part of the **company&#39;s business production cycle** and needs to **adapt** to the **company's priorities**.
+More realistically, a Technical Writer is part of the **company&#39;s business production cycle** and needs to **adapt** to the **company's processes**.
 
 ## About Me
 
