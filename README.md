@@ -42,14 +42,16 @@ A  **Technical Writer**  is like a  **hybrid creature**, half-human, half-octopu
 
 In an ideal world, **technical writing** also has its own **cycle**:
 
-- Identification of needs, audiences, and scope
+- Identification of audiences and needs 
 - Planning
-- Research &amp; content development
+- Research
+- Content Development
 - Testing
 - Revision
 - Delivery
 - Feedback
 - Updating
+- Translating
 - Archiving
 
 More realistically, a Technical Writer is part of the **company&#39;s business production cycle** and needs to **adapt** to the **company's priorities**.
